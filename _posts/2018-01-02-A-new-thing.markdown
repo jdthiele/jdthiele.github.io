@@ -3,6 +3,7 @@ layout: post
 title:  "A new thing"
 date:   2018-01-02 12:34:00 -0500
 categories: about blog update new begin
+permalink: /2018/01/02/A-new-thing.html
 ---
 
 Well, it's a new year and time to start a new thing. I am hoping to use this blog to share my 
