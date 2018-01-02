@@ -37,5 +37,5 @@ cover soon:
 Looking forward to hearing back from all of you and learning together.
 
 More soon,  
-Thanks!
+Thanks!  
 -D
