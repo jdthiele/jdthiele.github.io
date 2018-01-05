@@ -19,5 +19,5 @@ areas for improvement and even submit your pull requests to make it better for a
 
 [GitHub Project](https://github.com/jdthiele/oracle_support_upload)
 
-Thanks!
+Thanks!  
 -D
