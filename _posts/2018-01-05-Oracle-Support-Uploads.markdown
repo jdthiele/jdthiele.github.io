@@ -10,7 +10,7 @@ If you work with Oracle Support, you know that they often request large amounts 
 to help them troubleshoot a Service Request (SR). Quite often they need large files that are 
 cumbersome to move around and the process to upload them through a web browser is often
 FRUSTRATING. Wouldn't it be nice to intuitively send the files directly to the SR from
-the server they came from using common tools that just work? 
+the originating server using common tools that just work? 
 
 Well, I borrowed a script a long time ago and have made some improvements
 over the years that I wanted to share. I hope that it will help you save as much time as it has saved
