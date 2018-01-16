@@ -19,7 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This blog is where I share my thoughts, ideas, and lessons learned as I explore new
   technologies and how to use them to enable growth and efficiencies for organizations. I 
   hope to dive deeper into DevOps topics from the perspective of a Solaris and Linux sys 
-  admin who is exploring the development world and cloud technologies.
+  admin who is exploring the development world and cloud technologies. The opinions shared
+  in this blog are my own and not my employers.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jdthiele
