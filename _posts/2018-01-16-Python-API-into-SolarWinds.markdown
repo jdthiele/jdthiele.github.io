@@ -5,10 +5,8 @@ date:   2018-01-16 00:34:00 -0500
 categories: python rest api orionsdk solarwinds script
 ---
 
-# Python API into SolarWinds
-
 ### Download the script
-Download the script here: https://github.com/jdthiele/orionsdk-python_scripts
+Download the script here: <https://github.com/jdthiele/orionsdk-python_scripts>
 
 ### Overview
 I finally did it! I finally wrote a useful python script/program! At least, I think it is useful... I have been dabbling with python here and there but never spent the time to actually make it work from start to finish to accomplish some goal or task. It seemed so daunting to learn because there is so much capability available to you. I am very comfortable writing bash scripts and hardly need to look at documentation anymore unless I am doing something a little more complex. Bash is the "language" that I think of when solving logic problems on Linux. I've known that I needed to add another more capable language to my repertoire, and I think with the completion of this first full script, I've taken my first steps into python-land. Yay! With those first steps, I now see the splendor that lies ahead. I'm ready to dive in.

@@ -5,10 +5,8 @@ date:   2018-07-09 10:34:00 -0500
 categories: python xml script weblogic wls automation NewRelic monitoring APM
 ---
 
-# Automated Weblogic Server-Start Changes
-
 ### Download the script
-Download from Github: https://github.com/jdthiele/weblogic-server-start-changes
+Download from Github: <https://github.com/jdthiele/weblogic-server-start-changes>
 
 ### Overview
 I hope you like my new domain name. :-)
