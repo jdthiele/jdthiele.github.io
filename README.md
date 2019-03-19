@@ -1,5 +1,5 @@
 # Adventures of a DevOps Consultant Blog
-This is the GitHub Pages project for my blog, which is available [here](http://blog.thielehouse.com).
+This is the GitHub Pages project for my blog, which is available [here](http://blog.thiele.pro).
 
 ## Welcome to GitHub Pages
 
