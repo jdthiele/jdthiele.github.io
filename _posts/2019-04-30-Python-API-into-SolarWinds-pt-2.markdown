@@ -24,7 +24,7 @@ means touching each node inside SolarWinds again to rename it back to its proper
 for something that should be easy and automated. So that is what I did. This script uses the OrionSDK to update the necessary fields directly in the database without
 having to touch each server multiple times or install the new Linux agent. The custom poller effectively did the same thing but required a lot more work to do it.
 
-My scripts are available at ([GitHub](https://github.com/jdthiele/orionsdk-python_scripts)). Please do share your thoughts in the GitHub repo by submitting an issue
+My scripts are available at [GitHub](https://github.com/jdthiele/orionsdk-python_scripts). Please do share your thoughts in the GitHub repo by submitting an issue
 or pull request.
 
 Thanks!
