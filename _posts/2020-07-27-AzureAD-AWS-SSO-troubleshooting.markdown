@@ -28,7 +28,7 @@ To setup the SAML trust between Azure AD and AWS, an Enterprise App needs to be 
 **Resource:** [IAM Federation Guide - Azure Docs](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/amazon-web-service-tutorial)   
 The AWS SSO option was a little more intuitive and simple to execute. I used a non-Gallery app in AD which sounds like it would be more difficult, but AWS put the [SCIM](https://en.wikipedia.org/wiki/System_for_Cross-domain_Identity_Management) information front and center so that I could give the AD App the credentials for the provisioning service. Just add AD users to the app, or (if you have a higher O365 subscription level than I do) you can provision a group and then add AD users to the group. That is obviously a more mature, enterprise-ready approach. Head over to AWS SSO after the users are provisioned to grant them an existing IAM role. Woohoo! The user experience is also cleaner. Once the AD user signs in, they are taken to an AWS SSO dashboard which lists all of the AWS accounts the user was given access to and they can also select which role to assume if they were granted access to more than one role per account. I definitely prefer this method.
 
-Please let me know if you find this helpful, want help setting something like this up for your organization, or want to share any thoughts or feedback. Many [Blessings] to you and yours.
+Please let me know if you find this helpful, want help setting something like this up for your organization, or want to share any thoughts or feedback. Many [Blessings](https://www.youtube.com/watch?v=Zp6aygmvzM4) to you and yours.
 
 Thanks!  
 -D
