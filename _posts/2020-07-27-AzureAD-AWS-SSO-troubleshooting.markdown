@@ -3,6 +3,7 @@ layout: post
 title:  "Troubleshooting Azure AD to AWS SSO SAML provider setup"
 date:   2020-07-27 6:00:00 -0500
 categories: aws azure ad active directory sso saml cloud identity o365 office
+comments: True
 ---
 
 ### Overview
